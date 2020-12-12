@@ -1,12 +1,11 @@
 <p align="center">
   <a href="https://andrewm.codes" target="_blank" rel="noopener noreferrer">
-    <img src=".github/img/logo.svg" width="128" height="128">
+    <img src="https://github.com/andrewmcodes/.github/blob/main/.github/img/logo.svg" width="128" height="128">
   </a>
 </p>
 
 <p align="center">
   <img src="https://badgen.net/github/license/andrewmcodes/.github" alt="License: MIT">
-  <img src="https://badgen.net/github/last-commit/andrewmcodes/.github" alt="Last Commit Date">
   <img src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg" alt="Contributor Covenant">
 </p>
 
