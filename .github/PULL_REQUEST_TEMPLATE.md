@@ -1,28 +1,19 @@
-<!-- PULL REQUEST TEMPLATE -->
-<!-- (Update "[ ]" to "[x]" to check a box) -->
+## PR Purpose
 
-**What kind of change does this PR introduce?** (check at least one)
+The context for this pull request or the [Conventional Commits type](https://github.com/commitizen/conventional-commit-types/blob/master/index.json) that best matches the changes.
 
-- [ ] Bugfix
-- [ ] Feature
-- [ ] Code style update
-- [ ] Refactor
-- [ ] Build-related changes
-- [ ] Other, please describe:
+## Changes Summary
 
-**Does this PR introduce a breaking change?** (check one)
+Summarize what you've changed and **why**. Make sure to mention if this is a **breaking change.**
 
-- [ ] Yes
-- [ ] No
+## Screenshots
 
-If yes, please describe the impact and migration path for existing applications:
+Add screenshots of the feature in action or a video/GIF walkthrough of the UX. Remove if not applicable (e.g. refactoring).
 
-**The PR fulfills these requirements:**
+## Areas of interest
 
-- [ ] All tests are passing
-- [ ] New/updated tests are included
+Edge cases, workarounds, hacks, security concerns, and other areas of the code you'd like the reviewer to pay extra attention to or give feedback on.
 
-If adding a **new feature**, the PR's description includes:
-- [ ] A convincing reason for adding this feature (to avoid wasting your time, it's best to open a suggestion issue first and wait for approval before working on it)
+---
 
-**Other information:**
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org/)
