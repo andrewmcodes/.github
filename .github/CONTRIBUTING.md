@@ -1,37 +1,36 @@
-# Contributing Guide
+## Contributing
 
-Thanks for being willing to contribute!
+Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
-## Commit Message Convention
+> **Note**
+> This project adheres to Convention Commits. If you are working on a pull request, it will be squashed with a conventional commit message if you do not adhere to the convention. Please see [the contributing summary](https://www.conventionalcommits.org/en/v1.0.0/#summary) for more information.
 
-Commits should follow the [Conventional Commits spec](https://conventionalcommits.org/).
+Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the project's open source license.
 
-## Project setup
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
-1. Fork and clone the repo
-2. `bundle install && yarn install` to install dependencies
-3. Create a branch for your PR
+## Submitting a pull request
 
-> Tip: Keep your `main` branch pointing at the original repository and make
-> pull requests from branches on your fork. To do this, run:
->
-> ```
-> git remote add upstream https://github.com/andrewmcodes/this-project
-> git fetch upstream
-> git branch --set-upstream-to=upstream/main main
-> ```
->
-> This will add the original repository as a "remote" called "upstream," Then
-> fetch the git information from that remote, then set your local `main`
-> branch to use the upstream main branch whenever you run `git pull`. Then you
-> can make all of your pull request branches based on this `main` branch.
-> Whenever you want to update your version of `main`, do a regular `git pull`.
+0. Fork and clone the repository
+1. Configure and install the dependencies (if applicable)
+2. Make sure the tests pass on your machine (if applicable)
+3. Create a new branch: `git checkout -b my-branch-name`
+4. Make your change, add tests, and make sure the tests still pass
+5. Push to your fork and submit a pull request
+6. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
-## Help needed
+## Merging a pull request
 
-Please checkout the the open issues.
+Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
-Also, please watch the repo and respond to questions/bug reports/feature
-requests!
+- Ask for feedback early. You don't need to wait until you're done to get feedback.
+- Follow standards for style and code quality
+- Write tests.
+- Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
+- Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) that follows the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) convention.
 
-Thanks!
+## Resources
+
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
+- [GitHub Help](https://help.github.com)
