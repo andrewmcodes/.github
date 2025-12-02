@@ -6,31 +6,28 @@ labels: "docs"
 assignees: ""
 ---
 
-## What needs to be documented?
+## What needs to be documented
 
-<!-- Briefly describe what documentation is needed. -->
+<!-- Briefly describe what documentation is needed -->
 
-## Where should it go?
+## Where should it go
 
-<!-- File path or location (for example, README.md, docs/guide.md). -->
+<!-- File path or location (e.g., README.md, docs/guide.md) -->
 
 ## Key information to include
 
-<!-- List the main points or sections needed. -->
+<!-- List the main points or sections needed -->
 
-<details>
-<summary>Additional context</summary>
+## Additional context
 
 **Related files/code:**
 
-<!-- Link to relevant code, features, or existing docs. -->
+<!-- Link to relevant code, features, or existing docs -->
 
 **Examples or references:**
 
-<!-- Any examples, snippets, or similar docs to reference. -->
+<!-- Any examples, snippets, or similar docs to reference -->
 
 **Target audience:**
 
-<!-- Who is this for? (for example, end users, contributors, developers). -->
-
-</details>
+<!-- Who is this for? (end users, contributors, developers, etc.) -->

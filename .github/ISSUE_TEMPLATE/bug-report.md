@@ -6,30 +6,27 @@ labels: 'bug-report'
 assignees: ''
 ---
 
-<!-- 👍 A properly detailed bug report can save a LOT of time and help fixing issues as soon as possible. -->
+### What happened?
 
-### Version
-
-<!-- Text -->
-
-### Description
-
-<!-- Text -->
-
-<details open>
-<summary>Additional Details</summary>
-<br>
-<!-- Attachments -->
-</details>
+<!-- Describe the bug -->
 
 ### Steps to reproduce
 
-<!-- Text -->
+<!-- How to reproduce the issue -->
 
-### What is Expected?
+### Expected vs actual behavior
 
-<!-- Text -->
+**Expected:** <!-- What should happen -->
 
-### What is actually happening?
+**Actual:** <!-- What actually happens -->
 
-<!-- Text -->
+<details>
+<summary>Optional: Additional context</summary>
+
+**Version:**
+<!-- Version information -->
+
+**Additional details:**
+<!-- Screenshots, error logs, environment details, etc. -->
+
+</details>
